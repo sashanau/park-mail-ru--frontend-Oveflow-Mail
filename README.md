@@ -3,14 +3,14 @@
 
 Тема проекта: Почта<br>
 [Список требований](https://docs.google.com/spreadsheets/d/1h1QaRvRbF2eBUzdV1tLU62hS68bdNH-bLht6N29uDK8/) <br>
-Ссылка на сайт - [todo]()<br>
+Ссылка на сайт - overmail(https://overmail.online/)<br>
  Презентация - [todo]()
 
 ### Стэк технологий
 
-- Фронтэнд - JavaScript
+- Фронтэнд - TypeScript/JavaScript
 - Бэкэнд - Go
-- База данных - todo
+- База данных - Postgres
   
 ### Разработчики
 
